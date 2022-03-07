@@ -26,7 +26,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body>testtest
 	<table border="1">
 <%
 	while(rs.next()){
